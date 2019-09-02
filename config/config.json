@@ -1,0 +1,13 @@
+{
+  "development": {
+    "PORT": 4100,
+    "JWT_SECRET": "3ZGErMDCyxTOZYDp45GGD",
+    "MONGODB_URI": "mongodb://localhost:27017/guru_psychics"
+  },
+
+  "stage": {
+    "PORT": 4100,
+    "JWT_SECRET": "3ZGErMDCyxTOZYDp45GGD",
+    "MONGODB_URI": "mongodb://localhost:27017/guru_psychics"
+  }
+}
